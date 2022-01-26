@@ -16,7 +16,7 @@
  </p>
 <br>
 
-# ** Core Screen **
+# Core Screen
 <br>
 1.소셜로그인
 <br>
