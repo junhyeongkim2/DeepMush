@@ -111,6 +111,10 @@ npm install
 <br>
 expo start
 <br>
+<br>
+<br>
+<br>
+<br>
 
 
 
