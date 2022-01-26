@@ -102,14 +102,14 @@
 
 <br>
 
-## **🏃‍♂️ How to Start**
+# **🏃‍♂️ How to Start**
 
 <br>
-cd frontend
+# cd frontend
 <br>
-npm install
+# npm install
 <br>
-expo start
+# expo start
 <br>
 <br>
 <br>
