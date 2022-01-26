@@ -34,34 +34,28 @@ Core Screen
 
 <br>
 
+유저정보
+ <img width="250" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151110509-2e1281f3-a90f-415f-8fc2-f677c9f2ae03.png">
+
+버섯리스트(검색/삭제/상세)
+
+ <img width="250" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151110573-e3f309ff-6063-42d1-bee7-64d1f512db69.gif">
+ <img width="250" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151110584-db5a721b-f70b-4326-a95e-c45804ab4b24.gif">
+ <img width="250" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151110593-fb0a4212-e337-4c9e-a703-675754215176.gif">
 
 
+카메라화면(앨범,촬영,empty)
 
 
+ <img width="250" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151110697-d593fede-1580-478a-8827-fa97f24775b8.gif">
+ <img width="250" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151110761-78cc3c25-96be-4e67-8c80-2f03374045ab.gif">
+ <img width="250" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151110769-f315050e-10d4-4e12-83c0-c3efb749a19b.gif">
 
 
+버섯위치정보
 
- <img width="700" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151108287-1b45ad18-7346-4f57-96d1-4b5f2d569776.png
+ <img width="250" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151110793-70e0f4fe-05bd-4232-b1b6-16ccad3acad3.gif">
 
-1️ 학습 문제의 이미지를 업로드 방식으로 등록한다.
-
-<p>
- <img width="700" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52441923/127331969-c3697793-e664-43c4-8a53-1d96ebe565f7.PNG">
- </p>
-<br>
-2️ 학습지 이미지 데이터에서 딥러닝을 이용하여 문항정보를 추출한다.
-
-<p>
- <img width="700" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52441923/127332101-0407783f-a212-4f6f-a795-204dc318d1e4.PNG">
-</p>
-<br>
-▶ 결과
-
-<p>
- <img width="700" alt="quizmaker_gif" src="https://user-images.githubusercontent.com/52441923/127335666-f18d0780-faa9-482d-8aa1-4870e295e95c.gif">
-</p>
-     
-<br>
 
 ## **📌 System Architecture**
 
