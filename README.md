@@ -11,6 +11,10 @@
 
 화면 흐름 모델
 
+
+![image](https://user-images.githubusercontent.com/52617204/151109007-06c5d072-55fa-413e-bad9-2fed0a0d6dd1.png)
+
+
 <p>
  <img width="700" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151108287-1b45ad18-7346-4f57-96d1-4b5f2d569776.png">
  </p>
