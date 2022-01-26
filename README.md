@@ -1,4 +1,3 @@
-# DeepMush
 
 한국어 | [English](README_en.md)
 
@@ -17,7 +16,7 @@
  </p>
 <br>
 
-# **Core Screen
+#Core Screen
 <br>
 1.소셜로그인
 <br>
