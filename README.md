@@ -95,26 +95,6 @@ Core Screen
 <img alt="swagger" src="https://user-images.githubusercontent.com/52617204/151129108-81efb7aa-c483-48aa-a508-50874d589528.png">
 <br>
 
-### ✔ flow
-
-<p align="center">
-<img alt="flow" src="https://user-images.githubusercontent.com/52441923/127337947-e350e9cb-ff86-4322-9c1d-df96c9c1af70.PNG">
-</p>
-
-<br>
-
-### ✔ 결과
-
-- Model 1
-
-  <img width="532" alt="model1" src="https://user-images.githubusercontent.com/55429156/127284510-e5d7e958-bb16-4e69-95fc-f0b3f652ebe7.PNG">
-
-- Model 2
-
-  <img width="571" alt="model2" src="https://user-images.githubusercontent.com/55429156/127285868-5baff6b0-1ed3-41e2-89c7-11fc61d3ee6e.PNG">
-
-<br>
-
 <br>
 
 ## **🔑 How to Start**
