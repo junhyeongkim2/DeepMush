@@ -116,7 +116,125 @@
 <br>
 <br>
 
-
+```
+.
+├── LICENSE
+├── README.md
+├── backend
+│   ├── Dockerfile
+│   ├── README.md
+│   ├── accounts
+│   ├── config
+│   ├── db
+│   ├── images
+│   ├── inference
+│   ├── latlngs
+│   ├── logs
+│   ├── manage.py
+│   ├── registry.py
+│   ├── requirements.txt
+│   ├── run-celery.sh
+│   ├── run.sh
+│   ├── scripts
+│   ├── secrets.json
+│   ├── secrets.template.json
+│   ├── static-files
+│   └── users
+├── build-images.sh
+├── data
+│   ├── elk-data
+│   ├── grafana
+│   └── prometheus
+├── db
+│   ├── PG_VERSION
+│   ├── base
+│   ├── global
+│   ├── pg_commit_ts
+│   ├── pg_dynshmem
+│   ├── pg_hba.conf
+│   ├── pg_ident.conf
+│   ├── pg_logical
+│   ├── pg_multixact
+│   ├── pg_notify
+│   ├── pg_replslot
+│   ├── pg_serial
+│   ├── pg_snapshots
+│   ├── pg_stat
+│   ├── pg_stat_tmp
+│   ├── pg_subtrans
+│   ├── pg_tblspc
+│   ├── pg_twophase
+│   ├── pg_wal
+│   ├── pg_xact
+│   ├── postgresql.auto.conf
+│   ├── postgresql.conf
+│   ├── postmaster.opts
+│   └── postmaster.pid
+├── deploy
+│   ├── 502saver.service
+│   ├── 502saver.sh
+│   ├── setup.tf
+│   ├── setup.yaml
+│   └── variables.tf
+├── docker-compose.yml
+├── elastic
+│   ├── elasticsearch.prod.yml
+│   └── elasticsearch.yml
+├── filebeat
+│   ├── filebeat.prod.yml
+│   └── filebeat.yml
+├── frontend
+│   ├── App.tsx
+│   ├── app.json
+│   ├── assets
+│   ├── babel.config.js
+│   ├── node_modules
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── shim.js
+│   ├── src
+│   ├── tsconfig.json
+│   ├── yarn-error.log
+│   └── yarn.lock
+├── grafana
+│   ├── grafana.ini
+│   └── grafana.prod.ini
+├── init-k3s-cluster.sh
+├── install-cert-manager.sh
+├── k8s
+│   ├── auth
+│   ├── backend.yaml
+│   ├── database.yaml
+│   ├── elk.yaml
+│   ├── filebeat.yaml
+│   ├── grafana.yaml
+│   ├── ingress
+│   ├── local-path-provisioner
+│   ├── mongo-express.yaml
+│   ├── mongodb.yaml
+│   ├── pgadmin.yaml
+│   ├── prometheus.yaml
+│   ├── rabbitmq.yaml
+│   ├── secrets
+│   └── volumes
+├── logstash
+│   └── input.local.conf
+├── mongo-db
+├── nginx
+│   ├── config
+│   └── logs
+├── production
+│   ├── env.env
+│   ├── env.template.env
+│   ├── secrets.json
+│   └── secrets.template.json
+├── prometheus
+│   └── prometheus.yml
+├── push-images.sh
+├── rolling-release.sh
+├── uninstall-cert-manager.sh
+└── up-pods.sh
+```
 
 
 
