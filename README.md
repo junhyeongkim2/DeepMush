@@ -82,8 +82,6 @@ Core Screen
 
 ## **📑 Swagger**
 
-[QUIZMAKER Swagger Hub link](https://app.swaggerhub.com/apis/hayoung1214/QUIZMAKER/1.0.0)
-
 <p align="center">
 <img alt="swagger" src="https://user-images.githubusercontent.com/52617204/151116968-91daa564-0b19-4fd6-894e-939737c26150.png">
 </p>
@@ -91,6 +89,11 @@ Core Screen
 <br>
 
 ## **🦾 AI**
+
+<img alt="swagger" src="https://user-images.githubusercontent.com/52617204/151129010-5bb17820-b6f5-4b5c-8ab3-2073dcdb0642.png">
+<img alt="swagger" src="https://user-images.githubusercontent.com/52617204/151129058-aaf95002-6958-48dc-829c-95ac43d61dad.png">
+<img alt="swagger" src="https://user-images.githubusercontent.com/52617204/151129108-81efb7aa-c483-48aa-a508-50874d589528.png">
+<br>
 
 ### ✔ flow
 
@@ -117,10 +120,13 @@ Core Screen
 ## **🔑 How to Start**
 
 <br>
-
 cd frontend
+<br>
 npm install
+<br>
 expo start
+<br>
+
 
 
 
