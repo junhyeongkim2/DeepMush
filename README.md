@@ -17,11 +17,20 @@
  </p>
 <br>
 
-Core Screen
+# **Core Screen
+<br>
 1.소셜로그인
+<br>
+
 2.유저정보
+<br>
+
 3.버섯리스트
+<br>
+
 4.카메라화면/AI분석
+<br>
+
 5.버섯위치정보
 <br>
 
@@ -88,8 +97,8 @@ Core Screen
 
 <br>
 
-## **🦾 AI**
-
+## **🤖 AI**
+ 
 <img alt="swagger" src="https://user-images.githubusercontent.com/52617204/151129010-5bb17820-b6f5-4b5c-8ab3-2073dcdb0642.png">
 <img alt="swagger" src="https://user-images.githubusercontent.com/52617204/151129058-aaf95002-6958-48dc-829c-95ac43d61dad.png">
 <img alt="swagger" src="https://user-images.githubusercontent.com/52617204/151129108-81efb7aa-c483-48aa-a508-50874d589528.png">
@@ -97,7 +106,7 @@ Core Screen
 
 <br>
 
-## **🔑 How to Start**
+## **🏃‍♂️ How to Start**
 
 <br>
 cd frontend
