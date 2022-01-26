@@ -23,13 +23,18 @@ Core Screen
 3.버섯리스트
 4.카메라화면/AI분석
 5.버섯위치정보
+<br>
+
 
 소셜로그인,유저정보
+<br>
+
 
 <p>
  <img width="250" height="545" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151109486-7be7716f-b4f5-4559-95ce-603aecad6d3c.gif">
  &nbsp;&nbsp;&nbsp;&nbsp;
  <img width="250" height="545" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151109628-e3a1cfd3-f1ff-4d72-befc-e3c288eb43c7.gif">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="250" height="545" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151110509-2e1281f3-a90f-415f-8fc2-f677c9f2ae03.png">
 </p>
 <br>
