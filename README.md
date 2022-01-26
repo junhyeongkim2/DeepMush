@@ -35,27 +35,32 @@ Core Screen
 <br>
 
 유저정보
+
+<p>
  <img width="250" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151110509-2e1281f3-a90f-415f-8fc2-f677c9f2ae03.png">
+</p>
 
 버섯리스트(검색/삭제/상세)
-
+<p>
  <img width="250" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151110573-e3f309ff-6063-42d1-bee7-64d1f512db69.gif">
  <img width="250" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151110584-db5a721b-f70b-4326-a95e-c45804ab4b24.gif">
  <img width="250" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151110593-fb0a4212-e337-4c9e-a703-675754215176.gif">
-
+</p>
 
 카메라화면(앨범,촬영,empty)
 
 
+<p>
  <img width="250" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151110697-d593fede-1580-478a-8827-fa97f24775b8.gif">
  <img width="250" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151110761-78cc3c25-96be-4e67-8c80-2f03374045ab.gif">
  <img width="250" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151110769-f315050e-10d4-4e12-83c0-c3efb749a19b.gif">
-
+</p>
 
 버섯위치정보
 
+<p>
  <img width="250" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151110793-70e0f4fe-05bd-4232-b1b6-16ccad3acad3.gif">
-
+</p>
 
 ## **📌 System Architecture**
 
