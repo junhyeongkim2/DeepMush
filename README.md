@@ -11,8 +11,11 @@
 
 화면 흐름 모델
 
-![image](https://user-images.githubusercontent.com/52617204/151109215-89a667f5-3eef-4240-9514-105d25fa6722.png)
 
+<p>
+ <img width="700" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151109579-f6ca7c75-5087-4a31-a5eb-54c0ae9a41dd.png">
+ </p>
+<br>
 
 Core Screen
 1.소셜로그인
@@ -28,11 +31,17 @@ Core Screen
  </p>
 <br>
 
-
 <p>
- <img width="700" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151108287-1b45ad18-7346-4f57-96d1-4b5f2d569776.png">
+ <img width="700" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151109628-e3a1cfd3-f1ff-4d72-befc-e3c288eb43c7.gif">
  </p>
 <br>
+
+
+
+
+
+
+ <img width="700" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151108287-1b45ad18-7346-4f57-96d1-4b5f2d569776.png
 
 1️ 학습 문제의 이미지를 업로드 방식으로 등록한다.
 
