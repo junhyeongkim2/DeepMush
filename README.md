@@ -11,10 +11,8 @@
 
 화면 흐름 모델
 
+![image](https://user-images.githubusercontent.com/52617204/151109215-89a667f5-3eef-4240-9514-105d25fa6722.png)
 
-
-![image](https://user-images.githubusercontent.com/52617204/151109102-5c2ea22b-1305-4bfd-874a-58595c593835.png)
-![image](https://user-images.githubusercontent.com/52617204/151109117-2607d49d-453f-46ea-a3a3-0da70ced437e.png)
 
 
 
