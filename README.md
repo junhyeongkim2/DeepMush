@@ -9,6 +9,13 @@
 
 - 버섯 AI 분석 및 버섯채집위치 저장 플랫폼
 
+화면 흐름 모델
+
+<p>
+ <img width="700" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151108287-1b45ad18-7346-4f57-96d1-4b5f2d569776.png">
+ </p>
+<br>
+
 1️ 학습 문제의 이미지를 업로드 방식으로 등록한다.
 
 <p>
