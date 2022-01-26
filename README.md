@@ -28,7 +28,7 @@ Core Screen
 
 <p>
  <img width="250" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151109486-7be7716f-b4f5-4559-95ce-603aecad6d3c.gif">
- <img width="250" height="700" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151109628-e3a1cfd3-f1ff-4d72-befc-e3c288eb43c7.gif">
+ <img width="250" height="600" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151109628-e3a1cfd3-f1ff-4d72-befc-e3c288eb43c7.gif">
  
 </p>
 <br>
