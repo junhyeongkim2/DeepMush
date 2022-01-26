@@ -85,7 +85,7 @@ Core Screen
 [QUIZMAKER Swagger Hub link](https://app.swaggerhub.com/apis/hayoung1214/QUIZMAKER/1.0.0)
 
 <p align="center">
-<img alt="swagger" src="https://user-images.githubusercontent.com/55429156/127174047-172723ce-e143-4494-bdbb-c94732ef473d.PNG">
+<img alt="swagger" src="https://user-images.githubusercontent.com/52617204/151116968-91daa564-0b19-4fd6-894e-939737c26150.png">
 </p>
 
 <br>
