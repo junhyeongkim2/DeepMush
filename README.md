@@ -168,7 +168,24 @@
 │   ├── package-lock.json
 │   ├── package.json
 │   ├── shim.js
-│   ├── src
+│   └── src
+│   │   ├── Components
+│   │   │   ├── BorderLineComponent.tsx
+│   │   │   ├── ListBodyComponent.tsx
+│   │   │   ├── ListFooterComponent.tsx
+│   │   │   ├── ListPageHeaderComponent.tsx
+│   │   │   ├── SearchBarComponent.tsx
+│   │   │   └── functionComponent.tsx
+│   │   ├── MainContainer.tsx
+│   │   ├── Screens
+│   │   │   ├── DetailMapPage.tsx
+│   │   │   ├── DetailPage.tsx
+│   │   │   ├── ExpoCameraPage.tsx
+│   │   │   ├── ListPage.tsx
+│   │   │   ├── LoginPage.tsx
+│   │   │   ├── MapPage.tsx
+│   │   │   ├── UserInfoPage.tsx
+│   │   │   └── WebSee.tsx
 │   ├── tsconfig.json
 │   ├── yarn-error.log
 │   └── yarn.lock
@@ -178,21 +195,6 @@
 ├── init-k3s-cluster.sh
 ├── install-cert-manager.sh
 ├── k8s
-│   ├── auth
-│   ├── backend.yaml
-│   ├── database.yaml
-│   ├── elk.yaml
-│   ├── filebeat.yaml
-│   ├── grafana.yaml
-│   ├── ingress
-│   ├── local-path-provisioner
-│   ├── mongo-express.yaml
-│   ├── mongodb.yaml
-│   ├── pgadmin.yaml
-│   ├── prometheus.yaml
-│   ├── rabbitmq.yaml
-│   ├── secrets
-│   └── volumes
 ├── logstash
 │   └── input.local.conf
 ├── mongo-db
@@ -200,12 +202,7 @@
 │   ├── config
 │   └── logs
 ├── production
-│   ├── env.env
-│   ├── env.template.env
-│   ├── secrets.json
-│   └── secrets.template.json
 ├── prometheus
-│   └── prometheus.yml
 ├── push-images.sh
 ├── rolling-release.sh
 ├── uninstall-cert-manager.sh
