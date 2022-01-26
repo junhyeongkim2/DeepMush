@@ -70,7 +70,7 @@ Core Screen
 <br>
 
 
-## **📌 System Architecture**
+## **🏢 System Architecture**
 
 
 <p align="center">  
