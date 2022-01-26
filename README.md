@@ -31,7 +31,7 @@ Core Screen
 
 
 <p>
- <img width="250" height="545" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151109486-7be7716f-b4f5-4559-95ce-603aecad6d3c.gif">
+ <img width="250" height="545" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151115193-8e563f83-16b2-43c1-935a-64ec89686472.gif">
  &nbsp;&nbsp;&nbsp;&nbsp;
  <img width="250" height="545" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151109628-e3a1cfd3-f1ff-4d72-befc-e3c288eb43c7.gif">
   &nbsp;&nbsp;&nbsp;&nbsp;
