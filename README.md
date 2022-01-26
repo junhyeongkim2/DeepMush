@@ -14,7 +14,19 @@
 ![image](https://user-images.githubusercontent.com/52617204/151109215-89a667f5-3eef-4240-9514-105d25fa6722.png)
 
 
+Core Screen
+1.소셜로그인
+2.유저정보
+3.버섯리스트
+4.카메라화면
+5.버섯위치정보
 
+소셜로그인
+
+<p>
+ <img width="700" alt="quizmaker_imageupload" src="https://user-images.githubusercontent.com/52617204/151109486-7be7716f-b4f5-4559-95ce-603aecad6d3c.gif">
+ </p>
+<br>
 
 
 <p>
