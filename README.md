@@ -72,8 +72,9 @@ Core Screen
 
 ## **📌 System Architecture**
 
+
 <p align="center">  
-  <img src="https://user-images.githubusercontent.com/52617204/151111682-5b233492-ceb6-4eb3-9aef-b19bc4a68807.png">
+  <img src="https://user-images.githubusercontent.com/52617204/151111902-89b73655-e0ad-4c04-a604-5900086daf35.png">
 </p>
 
 <br>
