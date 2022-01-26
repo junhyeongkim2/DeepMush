@@ -12,7 +12,11 @@
 화면 흐름 모델
 
 
-![image](https://user-images.githubusercontent.com/52617204/151109007-06c5d072-55fa-413e-bad9-2fed0a0d6dd1.png)
+
+![image](https://user-images.githubusercontent.com/52617204/151109102-5c2ea22b-1305-4bfd-874a-58595c593835.png)
+![image](https://user-images.githubusercontent.com/52617204/151109117-2607d49d-453f-46ea-a3a3-0da70ced437e.png)
+
+
 
 
 <p>
