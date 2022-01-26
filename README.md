@@ -4,7 +4,7 @@
 
 <br>
 
-# **✍ DeepMush**
+# **🍄 DeepMush**
 
 
 - 버섯 AI 분석 및 버섯채집위치 저장 플랫폼
