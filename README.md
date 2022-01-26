@@ -114,49 +114,26 @@ Core Screen
 
 <br>
 
-## **🔑 Installation**
-
-> ### Deploy
-
-### **🎡 Github**
-
-- Clone Repository
-
-  ```bash
-  git clone https://github.com/2021-Team-E/Mandoo.git
-  ```
+## **🔑 How to Start**
 
 <br>
 
-### **❄ Front-end** setting
+cd frontend
+npm install
+expo start
 
-- package.json
 
-  ```json
-  {
-    ...
 
-    "proxy": "http://<ip>:<server_port>",
 
-    ...
-  }
-  ```
 
-- config.js
-
-  ```javascript
-  export const USER_SERVER = "http://<ip>:<server_port>";
-  ```
-
-<br>
 
 
 ## **👨‍👨‍👧‍👦 Members**
 
-| 이름       | 개발분야                           | 담당                                         | 소개페이지                                         |
-| ---------- | ---------------------------------- | -------------------------------------------- | -------------------------------------------------- |
-| 🦦김민웅   | Front-end                          | Web development,API Design, Data Engineering | [개인 리포로 이동](https://github.com/yunyun3599)  |
-| 🐥김준형   | Front-end                          | Web development, Docker                      | [개인 리포로 이동](https://github.com/leecr1215)   |
-| 🦩이지호   | Back-end                           | Web development, Algorithm                   | [개인 리포로 이동](https://github.com/shxnyoung)   |
-| 🐹최우석   | Back-end                           | API Design, Data Engineering                 | [개인 리포로 이동](https://github.com/hayoung1214) |
-| 🦉Ryan Lee | Deep learning                      | Algorithm                                    | [개인 리포로 이동](https://github.com/printSANO)   |
+| 이름       | 개발분야                           | 소개페이지                                         | 
+| ---------- | ---------------------------------- |  -------------------------------------------------- |
+| 🦦김민웅   | Front-end                          |  [개인 리포로 이동](https://github.com/yunyun3599)  |
+| 🐥김준형   | Front-end                          |                      [개인 리포로 이동](https://github.com/leecr1215)   |
+| 🦩이지호   | Back-end                           |                   [개인 리포로 이동](https://github.com/shxnyoung)   |
+| 🐹최우석   | Back-end                           |                   [개인 리포로 이동](https://github.com/hayoung1214) |
+| 🦉Ryan Lee | Deep learning                      |                                 [개인 리포로 이동](https://github.com/printSANO)   |
