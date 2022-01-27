@@ -77,6 +77,7 @@
 
 
 ## **🏢 System Architecture**
+<br>
 
 
 <p align="center">  
@@ -115,6 +116,7 @@
 <br>
 
 ## **🤖 AI**
+<br>
  
 <img alt="swagger" src="https://user-images.githubusercontent.com/52617204/151129010-5bb17820-b6f5-4b5c-8ab3-2073dcdb0642.png">
 <img alt="swagger" src="https://user-images.githubusercontent.com/52617204/151129058-aaf95002-6958-48dc-829c-95ac43d61dad.png">
@@ -241,6 +243,7 @@
 
 
 ## **👨‍👨‍👧‍👦 Members**
+<br>
 
 | 이름       | 개발분야                           | 소개페이지                                         | 
 | ---------- | ---------------------------------- |  -------------------------------------------------- |
