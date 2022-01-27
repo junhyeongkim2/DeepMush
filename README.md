@@ -6,6 +6,7 @@
 # **🍄 DeepMush**
 
 
+
 - 버섯 AI 분석 및 버섯채집위치 저장 플랫폼
 
 화면 흐름 모델
@@ -84,6 +85,21 @@
 
 <br>
 
+## 🔧 Tech stack
+
+
+| 분류          | 기술                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| :------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 개발환경      | ![NHN](https://img.shields.io/badge/NHN_Cloud_Ubuntu-20.04-blue?logo=ubuntu) ![S3](https://img.shields.io/badge/S3-gray?logo=AmazonS3) ![Docker](https://img.shields.io/badge/docker-gray?logo=docker)                                                                                                                                                                                                                                                                                     |
+| [Frontend](frontend/README.md)     | ![react](https://img.shields.io/badge/react-gray?logo=react) ![expo](https://img.shields.io/badge/Expo-000020.svg?&logo=Expo&logoColor=white") ![typescript](https://img.shields.io/badge/typescript-white?logo=javascript) ![Styled-components](https://img.shields.io/badge/styled_components-gray?logo=styled-components)                                                                                                     |
+| [Backend](backend/README.md)      | ![Flask](https://img.shields.io/badge/flask-1.1.2-green?logo=flask) ![Python](https://img.shields.io/badge/python-3.7.6-skyblue?logo=python) ![Gunicorn](https://img.shields.io/badge/gunicorn-gray?logo=gunicorn) ![Postman](https://img.shields.io/badge/postman-gray?logo=postman) ![Swagger](https://img.shields.io/badge/swagger-gray?logo=swagger)                                                                                                                                   |
+| DB            | ![MongoDB](https://img.shields.io/badge/mongodb-gray?logo=mongodb)                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Deep learning | ![Pytorch](https://img.shields.io/badge/pytorch-gray?logo=pytorch) ![Colab](https://img.shields.io/badge/colab-gray?logo=GoogleColab) ![Yolov5](https://img.shields.io/badge/yolov5-gray?logo=yolov5)                                                                                                                                                                                                                                                                                      |
+| Etc           | ![Nginx](https://img.shields.io/badge/Nginx-gray?logo=nginx) ![github](https://img.shields.io/badge/github-gray?logo=github) ![VScode](https://img.shields.io/badge/VScode-gray?logo=visual-studio-code) ![AWS](https://img.shields.io/badge/AWS-EC2_instance-orange?logo=aws) ![Prometheus](https://img.shields.io/badge/Prometheus-gray?logo=Prometheus) ![Grafana](https://img.shields.io/badge/Grafana-gray?logo=Grafana) |
+
+<br>
+
+
 
 ## **📑 Swagger**
 
@@ -115,6 +131,8 @@
 <br>
 <br>
 <br>
+
+# Directory tree
 
 ```
 .
@@ -170,22 +188,22 @@
 │   ├── shim.js
 │   └── src
 │   │   ├── Components
-│   │   │   ├── BorderLineComponent.tsx
-│   │   │   ├── ListBodyComponent.tsx
-│   │   │   ├── ListFooterComponent.tsx
-│   │   │   ├── ListPageHeaderComponent.tsx
-│   │   │   ├── SearchBarComponent.tsx
-│   │   │   └── functionComponent.tsx
+│   │   │   ├── BorderLineComponent.tsx //line component 
+│   │   │   ├── ListBodyComponent.tsx //mushromm list body component
+│   │   │   ├── ListFooterComponent.tsx // mushroom list foot component
+│   │   │   ├── ListPageHeaderComponent.tsx // mushroon list header component
+│   │   │   ├── SearchBarComponent.tsx //searchbar component
+│   │   │   └── functionComponent.tsx //empty mushroom detect and expolocation function component
 │   │   ├── MainContainer.tsx
 │   │   ├── Screens
-│   │   │   ├── DetailMapPage.tsx
-│   │   │   ├── DetailPage.tsx
-│   │   │   ├── ExpoCameraPage.tsx
-│   │   │   ├── ListPage.tsx
-│   │   │   ├── LoginPage.tsx
-│   │   │   ├── MapPage.tsx
-│   │   │   ├── UserInfoPage.tsx
-│   │   │   └── WebSee.tsx
+│   │   │   ├── DetailMapPage.tsx //detail mushroom location page
+│   │   │   ├── DetailPage.tsx //detail mushroom info page
+│   │   │   ├── ExpoCameraPage.tsx //camera and image to server api 
+│   │   │   ├── ListPage.tsx //mushroom list page
+│   │   │   ├── LoginPage.tsx //google login and kakao login
+│   │   │   ├── MapPage.tsx //all mushroom's location 
+│   │   │   ├── UserInfoPage.tsx //user info page 
+│   │   │   └── WebSee.tsx //webview page for social login
 │   ├── tsconfig.json
 │   ├── yarn-error.log
 │   └── yarn.lock
@@ -218,8 +236,8 @@
 
 | 이름       | 개발분야                           | 소개페이지                                         | 
 | ---------- | ---------------------------------- |  -------------------------------------------------- |
-|김민웅   | Front-end                          |  [개인 리포로 이동](https://github.com/yunyun3599)  |
-|김준형   | Front-end                          |                      [개인 리포로 이동](https://github.com/leecr1215)   |
-|이지호   | Back-end                           |                   [개인 리포로 이동](https://github.com/shxnyoung)   |
-|최우석   | Back-end                           |                   [개인 리포로 이동](https://github.com/hayoung1214) |
+|김민웅   | Front-end                          |  [개인 리포로 이동](https://github.com/POL6463)  |
+|김준형   | Front-end                          |                      [개인 리포로 이동](https://github.com/junhyeongkim2)   |
+|이지호   | Back-end                           |                   [개인 리포로 이동](https://github.com/DPS0340)   |
+|최우석   | Back-end                           |                   [개인 리포로 이동](https://github.com/wsChoe123) |
 |Ryan Lee | Deep learning                      |                                 [개인 리포로 이동](https://github.com/printSANO)   |
